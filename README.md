@@ -2,7 +2,7 @@
 
 ---
 
-#### Key Contributions
+### Key Contributions
 
 - **DeepSeek-OCR Fine-Tuning**  
   Fine-tuned DeepSeek-OCR on a 200K-sample Persian transcript dataset using Unsloth + LoRA (PEFT), achieving a 59% reduction in Character Error Rate (CER) compared to the base model.
